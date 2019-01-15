@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DDoS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DDoS_jar</output-path>
+    <root id="archive" name="DDoS.jar">
+      <element id="module-output" name="DDoS" />
+    </root>
+  </artifact>
+</component>
